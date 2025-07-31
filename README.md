@@ -92,14 +92,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 bash
 Copy
 Edit
-# Fork & Clone
-git clone https://github.com/your-username/ai-resume-analyzer.git
-📄 License
-MIT License © 2025 [Your Name]
 
-🔗 Useful Links
-Puter Documentation
-
-React
-
-TailwindCSS
